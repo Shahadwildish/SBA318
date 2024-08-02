@@ -19,4 +19,8 @@ Welcome to the Parrot Encyclopedia! This Node.js and Express application serves 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/parrot-encyclopedia.git
+   git clone https://github.com/Shahadwildish/SBA318.git
+
+2. **Start the application:**
+   ```bash
+   npm start
