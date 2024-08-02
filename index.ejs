@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Parrot Encyclopedia</title>
+    <link rel="stylesheet" href="/styles/styles.css">
+</head>
+<body>
+    <h1>Welcome to the Parrot Encyclopedia</h1>
+    <a href="/add-parrot">Add a New Parrot</a>
+    <ul>
+        <% parrots.forEach(parrot => { %>
+            <li>
+                <a href="/parrots/<%= parrot.id %>"><%= parrot.name %></a>
+            </li>
+        <% }) %>
+    </ul>
+</body>
+</html>

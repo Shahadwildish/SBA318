@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "name": "African Grey",
+        "image": "https://images.pexels.com/photos/6424438/pexels-photo-6424438.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "A highly intelligent parrot species known for its remarkable ability to mimic human speech."
+    },
+    {
+        "id": 2,
+        "name": "Macaw",
+        "image": "https://images.pexels.com/photos/2078772/pexels-photo-2078772.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "Large, colorful parrots native to Central and South America."
+    }
+]

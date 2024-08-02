@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "African Grey",
+    "image": "https://images.pexels.com/photos/6424438/pexels-photo-6424438.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "A highly intelligent parrot species known for its remarkable ability to mimic human speech."
+  },
+  {
+    "id": 2,
+    "name": "Macaw",
+    "image": "https://images.pexels.com/photos/2078772/pexels-photo-2078772.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "Large, colorful parrots native to Central and South America."
+  },
+  {
+    "id": 3,
+    "name": "Indian Ringneck",
+    "image": "https://images.pexels.com/photos/135940/pexels-photo-135940.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "Example Description of the Indian Ringneck"
+  },
+  {
+    "id": 4,
+    "name": "Yellow napped amazon ",
+    "image": "https://images.pexels.com/photos/17188024/pexels-photo-17188024/free-photo-of-close-up-of-a-blue-fronted-amazon-parrot.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "Yellow napped amazon "
+  }
+]
