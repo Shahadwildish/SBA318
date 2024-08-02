@@ -22,5 +22,11 @@
     "name": "Yellow napped amazon ",
     "image": "https://images.pexels.com/photos/17188024/pexels-photo-17188024/free-photo-of-close-up-of-a-blue-fronted-amazon-parrot.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "description": "Yellow napped amazon "
+  },
+  {
+    "id": 5,
+    "name": "TEST Parrot",
+    "image": "https://images.pexels.com/photos/17188024/pexels-photo-17188024/free-photo-of-close-up-of-a-blue-fronted-amazon-parrot.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "TEST TEST TES "
   }
 ]
